@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tara Launches Site"
+title: "The site gets launched"
 date: 2020-10-28
 ---
 
