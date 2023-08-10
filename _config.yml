@@ -2,3 +2,6 @@ name: Tara Vanhatalo
 email: tara.vanhatalo@u-bordeaux.fr
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+plugins:
+  - jekyll-include-cache
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
