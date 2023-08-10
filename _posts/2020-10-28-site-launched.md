@@ -1,5 +1,5 @@
 ---
-layout: post
+# layout: post
 title: "The site gets launched"
 date: 2020-10-28
 ---
