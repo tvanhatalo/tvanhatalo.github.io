@@ -1,7 +1,7 @@
 name: Tara Vanhatalo
 email: tara.vanhatalo@u-bordeaux.fr
 markdown: kramdown
-permalink: /:categories/:title/
+# permalink: /:categories/:title/
 title: "Personal Webpage"
 url: "tvanhatalo.github.io"
 
