@@ -21,7 +21,7 @@ minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon
 author:
   name   : "Tara Vanhatalo"
   avatar : "/assets/img/bio-photo.png"
-  bio    : "Little test - let's see."
+  bio    : "Doctoral candidate in real-time audio effects modelling using machine learning."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
