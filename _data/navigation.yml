@@ -1,9 +1,15 @@
 main:
   - title: "Posts"
     url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
+  # - title: "Categories"
+  #   url: /categories/
+  # - title: "Tags"
+  #   url: /tags/
   - title: "About"
     url: /about/
+  - title: "Art"
+  url: /art/
+  - title: "CV"
+  url: /cv/
+  - title: "Publications"
+    url: /publications/

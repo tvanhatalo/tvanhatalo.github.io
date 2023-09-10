@@ -1,0 +1,4 @@
+---
+permalink: /art/
+title: "Art"
+---
