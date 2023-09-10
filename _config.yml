@@ -6,7 +6,6 @@ permalink: /blog/:year/:month/:day/:title
 include:
   - _pages
 
-
 plugins:
   - jekyll-include-cache
   - jekyll-sitemap
