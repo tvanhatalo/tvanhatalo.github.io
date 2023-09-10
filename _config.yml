@@ -20,7 +20,7 @@ minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon
 
 author:
   name   : "Tara Vanhatalo"
-  avatar : "/assets/img/bio-photo.jpg"
+  avatar : "/assets/img/bio-photo.png"
   bio    : "Little test - let's see."
   links:
     - label: "GitHub"
