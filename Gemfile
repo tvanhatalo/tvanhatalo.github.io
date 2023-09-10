@@ -13,5 +13,5 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem "jemoji"
   gem "jekyll-algolia"
-  gem "minimal-mistakes-jekyll"
+  gem "minimal-mistakes-jekyll", '~> 4.24'
 end
