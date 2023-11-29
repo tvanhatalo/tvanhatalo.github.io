@@ -1,9 +1,9 @@
 ---
-layout: splash
+layout: home
 permalink: /
 hidden: true
 header:
-  overlay_image: /assets/img/header1.jpg
+  overlay_image: ../assets/img/header1.jpg
 excerpt: >
   Tara Vanhatalo<br />
   <small>Real-time Machine Learning for Audio Applications</small>    
