@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-I am a PhD candidate at Bordeaux University. My research focuses on machine learning solutions for music technology with a focus on real-time capable methods. 
+I am a PhD candidate at Bordeaux University. My research interests concern machine learning solutions for music technology with a focus on real-time capable methods. 
 
 Links to some of my research can be found [here](https://tvanhatalo.github.io/publications/) but the main focus here is extra-curricular activities and personal (disorganised) notes on any topic I find interesting. 
 
