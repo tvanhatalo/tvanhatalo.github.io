@@ -5,6 +5,7 @@ title: "Publications"
 
 ## Journal Articles
 
+- 2024: [Evaluation of Real-Time Aliasing Reduction Methods in Neural Networks for Nonlinear Audio Effects Modelling](https://www.aes.org/e-lib/browse.cfm?elib=22384)
 - 2022: [A Review of Neural Network-Based Emulation of Guitar Amplifiers](https://www.mdpi.com/2076-3417/12/12/5894)
 
 ## Conference Papers
