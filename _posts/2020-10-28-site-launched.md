@@ -1,7 +1,7 @@
 ---
 # layout: post
-title: "The site gets launched"
-date: 2020-10-28
+title: "Set Theory: A Background and Introduction"
+date: 2024-10-10
 ---
 
-First in a series of blog posts on the new webpage. 
+Coming Soon.
