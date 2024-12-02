@@ -1,5 +1,5 @@
 name: Tara Vanhatalo
-email: tara.vanhatalo@u-bordeaux.fr
+email: t.vanhatalo@qmul.ac.uk
 markdown: kramdown
 # permalink: /:categories/:title/
 title: "Tara Vanhatalo"
@@ -23,7 +23,7 @@ minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon
 author:
   name   : "Tara Vanhatalo"
   avatar : "/assets/img/bio-photo.png"
-  bio    : "Doctoral candidate in real-time audio effects modelling using machine learning."
+  bio    : "Postdoc in audio ML @ C4DM - Queen Mary University London."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
