@@ -29,7 +29,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/tvanhatalo"
     - label: "Allendia"
-      icon: "fas fa-solid fa-compact-disk"
+      icon: "fa-solid fa-compact-disk"
       url: "https://allendia.com/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
