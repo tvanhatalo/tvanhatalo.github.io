@@ -31,6 +31,13 @@ author:
     - label: "Allendia"
       icon: "fas fa-fw fa-compact-disc"
       url: "https://allendia.com/"
+      # adding some other cool icons from font-awesome
+      # icon: "fas fa-fw fa-music"
+      # icon: "fas fa-fw fa-microchip"
+      # icon: "fas fa-fw fa-robot"
+      # icon: "fas fa-fw fa-vials"
+      # icon: "fas fa-fw fa-barcode"
+      # icon: "fas fa-fw fa-shrimp"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/tara-vanhatalo-22a44b16a/"
