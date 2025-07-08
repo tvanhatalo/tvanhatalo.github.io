@@ -32,8 +32,6 @@ date: 2025-07-04
   - Network (NOS) = manages the resources of computers connected in a network (enabling resources to be shared across this network). This allows system administrators to manage access configurations across all connected devices.
   - Cluster = Typically used in High-Performance Computing (HPC) where the OS manages inter-connected computers (nodes) working together to perform tasks like a single system. This allows for users to combine the power of the different machines, improving reliability and performance.
 
-  -- https://www.ibm.com/think/topics/operating-systems
-
 - What is a GNU distribution<sup>[2]</sup><sup>[3]</sup>?
 
   A GNU distribution is a complete operating system made by combining:
@@ -52,14 +50,8 @@ date: 2025-07-04
   
   By the early 1990s, a lot of the software for GNU was written except the kernel - quite important as it is at the core of operations.
   ```
-  Linux kernel + GNU tools + Extra software (apps, GUI, etc.) = GNU/Linux distribution
+  GNU/Linux distribution = Linux kernel + GNU tools + Extra software (apps, GUI, etc.)
   ```
-  
-  
-
-
-
-
 
 - What does POSIX compliance mean?
 
